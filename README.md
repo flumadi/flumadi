@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Fridah Lumadi!!
 
-<!--
+<!
 **flumadi/flumadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🎓I’m  an Information Tech scholar at South Eastern Kenya University...
@@ -16,4 +16,4 @@
 - ❤️ My hobbies are swimming, cooking, reading, listening to music and singing...
 - 🤝Always willing to learn from anyone, anytime, anywhere...
 -Let’s code, create, and collaborate!🚀
--->
+>
