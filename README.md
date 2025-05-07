@@ -10,3 +10,7 @@
 - 🤝Always willing to learn from anyone, anytime, anywhere...
 - Let’s code, create, and collaborate!🚀...
 
+📌 Featured Projects
+🔹 AI-Powered Mental Health Platform – Using AI to improve mental health accessibility. 
+🔹 SQL Database Management – Optimizing MySQL databases for efficiency. 
+🔹 Web Development Portfolio – Showcasing dynamic web projects.
