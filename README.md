@@ -11,6 +11,6 @@
 - Let’s code, create, and collaborate!🚀...
 
 📌 Featured Projects
-🔹 AI-Powered Mental Health Platform – Using AI to improve mental health accessibility. 
-🔹 SQL Database Management – Optimizing MySQL databases for efficiency. 
-🔹 Web Development Portfolio – Showcasing dynamic web projects.
+🔹 AI-Powered Mental Health Platform – Using AI to improve mental health accessibility.<br>
+🔹 SQL Database Management – Optimizing MySQL databases for efficiency. <br>
+🔹 Web Development Portfolio – Showcasing dynamic web projects.<br>
