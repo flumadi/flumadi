@@ -14,4 +14,5 @@
 🔹 AI-Powered Mental Health Platform – Using AI to improve mental health accessibility.<br>
 🔹 SQL Database Management – Optimizing MySQL databases for efficiency. <br>
 🔹 Web Development Portfolio – Showcasing dynamic web projects.<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flumadi&show_icons=true&theme=radical)
+![Contribution Graph](https://github.com/flumadi/github-readme-activity-graph)
+
